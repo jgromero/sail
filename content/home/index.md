@@ -3,6 +3,9 @@ widget = "blank"
 active = true
 weight = 1
 
+title = "Demo"
+subtitle = "Test web page"
+
 [design]
   columns = "1"
 +++
