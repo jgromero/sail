@@ -1,6 +1,7 @@
 +++
 widget = "blank"
 active = true
+weight = 1
 
 [design]
   columns = "1"
