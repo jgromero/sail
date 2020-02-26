@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jgomez@decsai.ugr.es".
+  link: mailto:jgomez@decsai.ugr.es.
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/j_gomero
