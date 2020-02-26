@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: Custom Link
-url: https://jgromero.github.io/ia4sg/
+ url: https://jgromero.github.io/ia4sg/
 url_pdf: https://jgromero.github.io/ia4sg/doc/paper-jgomezr_mmolinas-neurips19.pdf
 url_code: '#'
 url_dataset: '#'
