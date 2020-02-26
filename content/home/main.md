@@ -77,17 +77,19 @@ Patricia Saldaña Taboada
 
 #### Collaborators
 
-Prof Waldo Fajardo Contreras
+Prof Waldo Fajardo Contreras (Universidad de Granada)
 
-Dr Javier Valls Prieto
+Dr Javier Valls Prieto (Universidad de Granada)
 
-Dr Fernando Bobillo Ortega
+Dr Fernando Bobillo Ortega (Universidad de Zaragoza)
 
-Prof Yike Guo
+Prof Jesús García Herrero (Universidad Carlos III de Madrid)
 
-Dr Rossella Arcucci
+Prof Yike Guo (Imperial College London)
 
-Dr Julio C. Amador Díaz López
+Dr Rossella Arcucci (Imperial College London)
+
+Dr Julio C. Amador Díaz López (Imperial College London)
 
 
 

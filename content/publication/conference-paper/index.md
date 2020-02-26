@@ -20,7 +20,7 @@ publication_short: In *NeurIPS 2019 CCML Workshop*
 abstract: Buildings are the largest energy-demanding sector in the world, representing over one third of the total worldwide consumption and a similarly important source of CO2 emissions. We envision a future energy system in which building control will be performed by autonomous self-adaptive agents that, with minimal configuration, will learn how to operate the HVAC equipment more efficiently and how to collaborate with other actors of the grid.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We pursue to develop new Deep Learning and Reinforcement Learning methods, algorithms and tools to address three key issues: generation of optimal control instructions for HVAC to save energy while guaranteeing comfort; simulation of buildings under different operations and contexts; coordination between components of the energy system to achieve an overall reduction of the contaminant emissions.
 
 tags:
 - Source Themes
