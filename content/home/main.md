@@ -32,4 +32,4 @@ SAIL's objectives are aligned to the UN's [Sustainable Development Goals](https:
 - Climate Action
 - Peace, Justice and Strong Institutions
 
-We produce trustworthy and responsible technologies that contribute to make a more sustainable world.
+We produce trustworthy and responsible AI technologies that contribute to make a more sustainable world.
