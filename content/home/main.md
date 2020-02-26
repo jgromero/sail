@@ -33,3 +33,63 @@ SAIL's objectives are aligned to the UN's [Sustainable Development Goals](https:
 - Peace, Justice and Strong Institutions
 
 We produce trustworthy and responsible AI technologies that contribute to make a more sustainable world.
+
+---
+
+### Members
+
+#### Principal Researcher
+
+Dr Juan Gómez Romero
+
+#### Researchers
+
+Dr Miguel Molina Solana
+
+#### PhD Students
+
+Julio Barzola Monteses
+
+Carlos Fernández Basso
+
+Roberto Morcillo Jiménez
+
+Patricia Saldaña Taboada
+
+#### MSc Students
+
+##### Current
+
+- Andrea Morales Garzón
+- Álvaro Fernández García
+- Jesús Mesa González
+- Alejandro Campoy Nieves
+- Antonio Parri González
+- Rafael Hernández Pérez Palacio
+
+##### Past
+
+- Manuel Jesús Sánchez Casimiro-Soriguer
+- Jorge A. Bonilla Bohórquez
+- Francisco Luque Castillo
+- Juan Carlos Navarrete Solana
+- Ramón Gago Carrera
+
+#### Collaborators
+
+Prof Waldo Fajardo Contreras
+
+Dr Javier Valls Prieto
+
+Dr Fernando Bobillo Ortega
+
+Prof Yike Guo
+
+Dr Rossella Arcucci
+
+Dr Julio C. Amador Díaz López
+
+
+
+
+
