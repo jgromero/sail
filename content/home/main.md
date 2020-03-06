@@ -18,7 +18,7 @@ subtitle = ""
 
 +++
 
-# Page under construction
+## *Page under construction*
 
 > Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs.
 
