@@ -18,11 +18,13 @@ subtitle = ""
 
 +++
 
+# Page under construction
+
 > Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs.
 
 *Our Common Future (The Brundtland Report)*, United Nations ([1987](https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf))
 
-The **Sustainable Artificial Intelligence Laboratory** (SAIL) brings together researchers interested in different aspects of sustainability and how they can be addressed by applying Artificial Intelligence.
+The **Sustainable Artificial Intelligence Laboratory** (SAIL) was launched in January 2020. It brings together researchers interested in different aspects of sustainability and how they can be addressed by applying Artificial Intelligence.
 
 SAIL's objectives are aligned to the UN's [Sustainable Development Goals](https://www.un.org/sustainabledevelopment/). Specifically, our research work is focused on the following goals:
 
