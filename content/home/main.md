@@ -18,8 +18,6 @@ subtitle = ""
 
 +++
 
-## *Page under construction*
-
 > Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs.
 
 *Our Common Future (The Brundtland Report)*, United Nations ([1987](https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf))
