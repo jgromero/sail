@@ -40,23 +40,19 @@ We produce trustworthy and responsible AI technologies that contribute to make a
 
 ### Members
 
-#### Principal Researcher
+#### Principal Researchers
 
-Dr Juan Gómez Romero
+- [Dr Juan Gómez Romero](https://decsai.ugr.es/~jgomez/)
+- [Dr Miguel Molina Solana](https://miguelmolina.me/)
 
-#### Researchers
-
-Dr Miguel Molina Solana
 
 #### PhD Students
 
-Julio Barzola Monteses
+- Julio Barzola Monteses
+- Roberto Morcillo Jiménez
+- Patricia Saldaña Taboada
+- Javier Jiménez
 
-Carlos Fernández Basso
-
-Roberto Morcillo Jiménez
-
-Patricia Saldaña Taboada
 
 #### MSc Students
 
@@ -66,11 +62,12 @@ Patricia Saldaña Taboada
 - Álvaro Fernández García
 - Jesús Mesa González
 - Alejandro Campoy Nieves
-- Antonio Parri González
-- Rafael Hernández Pérez Palacio
+
 
 ##### Past
 
+- Antonio Parri González
+- Rafael Hernández Pérez Palacio
 - Manuel Jesús Sánchez Casimiro-Soriguer
 - Jorge A. Bonilla Bohórquez
 - Francisco Luque Castillo
@@ -79,21 +76,12 @@ Patricia Saldaña Taboada
 
 #### Collaborators
 
-Prof Waldo Fajardo Contreras (Universidad de Granada)
-
-Dr Javier Valls Prieto (Universidad de Granada)
-
-Dr Fernando Bobillo Ortega (Universidad de Zaragoza)
-
-Prof Jesús García Herrero (Universidad Carlos III de Madrid)
-
-Prof Yike Guo (Imperial College London)
-
-Dr Rossella Arcucci (Imperial College London)
-
-Dr Julio C. Amador Díaz López (Imperial College London)
-
-
-
+- Prof Waldo Fajardo Contreras (Universidad de Granada)
+- Dr Javier Valls Prieto (Universidad de Granada)
+- Dr Fernando Bobillo Ortega (Universidad de Zaragoza)
+- Prof Jesús García Herrero (Universidad Carlos III de Madrid)
+- Prof Yike Guo (Imperial College London)
+- Dr Rossella Arcucci (Imperial College London)
+- Dr Julio C. Amador Díaz López (Imperial College London)
 
 
