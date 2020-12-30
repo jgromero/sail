@@ -23,13 +23,15 @@ abstract: Buildings are the largest energy-demanding sector in the world, repres
 summary: We pursue to develop new Deep Learning and Reinforcement Learning methods, algorithms and tools to address three key issues -- generation of optimal control instructions for HVAC to save energy while guaranteeing comfort; simulation of buildings under different operations and contexts; coordination between components of the energy system to achieve an overall reduction of the contaminant emissions.
 
 tags:
-- Source Themes
+- Publication
+- Climate Change
+- Reinforcement Learning
 featured: true
 
 links:
 - name: Custom Link
   url: https://jgromero.github.io/ia4sg/
-url_pdf: https://jgromero.github.io/ia4sg/doc/paper-jgomezr_mmolinas-neurips19.pdf
+url_pdf: https://www.climatechange.ai/papers/neurips2019/49/paper.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -60,8 +62,8 @@ projects: []
 slides: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+<!-- {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
 {{% alert note %}}
@@ -69,4 +71,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
+-->
